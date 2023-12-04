@@ -1,7 +1,8 @@
-# LinkedIn Easy Apply Bot
-Automatically apply to LinkedIn Easy Apply jobs. This bot answers the application questions as well!
+# Application Easy apply
+The purpose of this bot is to automate job applications on websites such as linkedin, monster,etc.. That have a quick apply function.
+I grew frustrated with opening job websites and seeing openings were flooded with applications within minutes/hours of posting and most people are bogged down with simple questions that can be automated.
+This project is not meant to be monetized and simply meant to be a fun project.
 
-This is for educational purposes only. I am not responsible if your LinkedIn account gets suspended or for anything else.
 
 This bot is written in Python using Selenium.
 
