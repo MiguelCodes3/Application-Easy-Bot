@@ -1,5 +1,5 @@
-email: miguel3vega@gmail.com
-password: Silverado21$
+email: PleaseDontStealmyLogin@gmail.com
+password: password
 
 disableAntiLock: False
 
@@ -59,7 +59,7 @@ titleBlacklist:
  #- word2
 
 uploads:
- resume: C:\Users\migue\Downloads\Vega Miguel Monster Energy.pdf
+ resume: C:\Users\migue\Downloads\
  # Cover letter is optional
  #coverLetter: C:\Users\myDirectory\CoverLettter.pdf
 
@@ -164,18 +164,18 @@ technology:
  default: 3
 # ------------ Additional parameters: personal info ---------------
 personalInfo:
- First Name: Miguel
- Last Name: Vega
+ First Name: First
+ Last Name: Last
  Phone Country Code: US (+1) # See linkedin for your country code, must be exact
- Mobile Phone Number: 909509170
- Street address: 1778 Oakridge Dr
+ Mobile Phone Number: Your Home Number
+ Street address: Your Home Address
  City: Corona, California # Include the state/province as well!
  State: California
  Zip: 92882
  Linkedin: https://www.linkedin.com/in/miguel-v3/
  # Website: https://www.my-website.com # github/website is interchangable here
 
-# ------------ Additional parameters: USA employment crap ---------------
+# ------------ Additional parameters: USA employment questionaire ---------------
 eeo:
  gender: Male
  race: Hispanic or Latino
